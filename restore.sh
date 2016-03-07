@@ -49,6 +49,8 @@ sudo apt-get install mysql-workbench
 
 # Git Setup
 sudo apt-get install git
+git config --global user.email "craigmiller160@gmail.com"
+git config --global user.name "craigmiller160"
 
 # Tixati doesn't get installed via apt-get, it is retrieved from the website
 wget www.tixati.com/download/tixati_1.96-1_amd64.deb
